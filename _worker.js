@@ -484,7 +484,7 @@ async function generateAdminPage(DATABASE) {
   <!DOCTYPE html>
   <html>
     <head>
-      <title>图库</title>
+      <title>杨成火的图库</title>
       <link rel="icon" href="https://p1.meituan.net/csc/c195ee91001e783f39f41ffffbbcbd484286.ico" type="image/x-icon">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <style>
